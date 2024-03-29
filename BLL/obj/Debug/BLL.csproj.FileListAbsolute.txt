@@ -1,0 +1,48 @@
+D:\MyProject\Donet\QLThuVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\MyProject\Donet\QLThuVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\BLL.dll
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\BLL.pdb
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\DAL.dll
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\DTO.dll
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\DAL.pdb
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\DAL.dll.config
+D:\MyProject\Donet\QLThuVien\BLL\bin\Debug\DTO.pdb
+D:\MyProject\Donet\QLThuVien\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\MyProject\Donet\QLThuVien\BLL\obj\Debug\BLL.dll
+D:\MyProject\Donet\QLThuVien\BLL\obj\Debug\BLL.pdb
+F:\QLThuVien\BLL\bin\Debug\BLL.dll
+F:\QLThuVien\BLL\bin\Debug\BLL.pdb
+F:\QLThuVien\BLL\bin\Debug\DAL.dll
+F:\QLThuVien\BLL\bin\Debug\DTO.dll
+F:\QLThuVien\BLL\bin\Debug\DAL.pdb
+F:\QLThuVien\BLL\bin\Debug\DAL.dll.config
+F:\QLThuVien\BLL\bin\Debug\DTO.pdb
+F:\QLThuVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\QLThuVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\QLThuVien\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\QLThuVien\BLL\obj\Debug\BLL.dll
+F:\QLThuVien\BLL\obj\Debug\BLL.pdb
+E:\Test .NET\QLThuVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Test .NET\QLThuVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Test .NET\QLThuVien\BLL\obj\Debug\BLL.dll
+E:\Test .NET\QLThuVien\BLL\obj\Debug\BLL.pdb
+E:\Test .NET\QLThuVien\BLL\bin\Debug\BLL.dll
+E:\Test .NET\QLThuVien\BLL\bin\Debug\BLL.pdb
+E:\Test .NET\QLThuVien\BLL\bin\Debug\DAL.dll
+E:\Test .NET\QLThuVien\BLL\bin\Debug\DTO.dll
+E:\Test .NET\QLThuVien\BLL\bin\Debug\DAL.pdb
+E:\Test .NET\QLThuVien\BLL\bin\Debug\DAL.dll.config
+E:\Test .NET\QLThuVien\BLL\bin\Debug\DTO.pdb
+E:\Test .NET\QLThuVien\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Kiên Lê\QLThuVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Kiên Lê\QLThuVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Kiên Lê\QLThuVien\BLL\obj\Debug\BLL.dll
+E:\Kiên Lê\QLThuVien\BLL\obj\Debug\BLL.pdb
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\BLL.dll
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\BLL.pdb
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\DAL.dll
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\DTO.dll
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\DAL.pdb
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\DAL.dll.config
+E:\Kiên Lê\QLThuVien\BLL\bin\Debug\DTO.pdb
+E:\Kiên Lê\QLThuVien\BLL\obj\Debug\BLL.csproj.CopyComplete

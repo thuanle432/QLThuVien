@@ -1,0 +1,50 @@
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\GUI.exe.config
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\GUI.exe
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\GUI.pdb
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\BLL.dll
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\DAL.dll
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\DTO.dll
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\BLL.pdb
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\DAL.pdb
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\DAL.dll.config
+D:\MyProject\Donet\QLThuVien\GUI\bin\Debug\DTO.pdb
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_DocGia.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_Login.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_PhieuMuon.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_PhieuTra.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_QLSach.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_Register.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.GUI_TrangChu.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.exe
+D:\MyProject\Donet\QLThuVien\GUI\obj\Debug\GUI.pdb
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_DocGia.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_Login.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_PhieuMuon.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_PhieuTra.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_QLSach.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_Register.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_TrangChu.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.exe
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.pdb
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\GUI.exe.config
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\GUI.exe
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\GUI.pdb
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\BLL.dll
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\DAL.dll
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\DTO.dll
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\BLL.pdb
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\DAL.pdb
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\DAL.dll.config
+E:\Kiên Lê\QLThuVien\GUI\bin\Debug\DTO.pdb
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_DangMuon.resources
+E:\Kiên Lê\QLThuVien\GUI\obj\Debug\GUI.GUI_DaTra.resources
